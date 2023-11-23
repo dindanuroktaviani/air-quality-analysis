@@ -14,4 +14,16 @@ pip install pandas matplotlib seaborn jupyter streamlit
 
 ```
 streamlit run air_quality.py
+
 ```
+
+## Add image screenshot dashboard
+
+![Alt Text](C:\Users\dinda\OneDrive\Pictures\Screenshot\Dashboard1.jpg)
+![Alt Text](C:\Users\dinda\OneDrive\Pictures\Screenshot\Dashboard2.jpg)
+![Alt Text](C:\Users\dinda\OneDrive\Pictures\Screenshot\Dashboard3.jpg)
+![Alt Text](C:\Users\dinda\OneDrive\Pictures\Screenshot\Dashboard4.jpg)
+
+## Link Streamlit
+
+https://air-quality-analysis-dindanuroktaviani.streamlit.app/
