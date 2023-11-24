@@ -19,10 +19,10 @@ streamlit run air_quality.py
 
 ## Add image screenshot dashboard
 
-![Gambar 1](C:/Users/dinda/OneDrive/Pictures/Screenshot/Dashboard1.png)
-![Gambar 2](C:/Users/dinda/OneDrive/Pictures/Screenshot/Dashboard2.png)
-![Gambar 3](C:/Users/dinda/OneDrive/Pictures/Screenshot/Dashboard3.png)
-![Gambar 4](C:/Users/dinda/OneDrive/Pictures/Screenshot/Dashboard4.png)
+![Gambar 1](/Dashboard1.png)
+![Gambar 2](/Dashboard2.png)
+![Gambar 3](/Dashboard3.png)
+![Gambar 4](/Dashboard4.png)
 
 ## Link Streamlit
 
